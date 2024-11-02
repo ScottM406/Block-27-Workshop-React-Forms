@@ -1,0 +1,23 @@
+html {
+  background-color: rgba(73, 73, 73, 0.966);
+  color: blanchedalmond;
+}
+
+input {
+  background-color: bisque;
+}
+
+#pass-input {
+  margin-left: 1%;
+}
+
+#log-in-button {
+  margin-left: 1%;
+}
+
+#welcome-message {
+  margin-top: 10%;
+  font-size: 120px;
+  text-align: center;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
